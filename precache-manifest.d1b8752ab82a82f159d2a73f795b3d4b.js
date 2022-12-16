@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "77b971e2eb09549a0243",
+    "revision": "2dadc9dba46b2c188720",
     "url": "/portfolio/static/css/main.50cf324f.chunk.css"
   },
   {
-    "revision": "77b971e2eb09549a0243",
-    "url": "/portfolio/static/js/main.77b971e2.chunk.js"
+    "revision": "2dadc9dba46b2c188720",
+    "url": "/portfolio/static/js/main.2dadc9db.chunk.js"
   },
   {
     "revision": "a494808147a9c45a2c58",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/epolitiker.1c1a3576.png"
   },
   {
-    "revision": "35482516518aeae06e588f433c116dbe",
+    "revision": "5c36931c9696f36039d3365df993e046",
     "url": "/portfolio/index.html"
   }
 ];
